@@ -1,6 +1,6 @@
 /*
     Very simple reactive dom realization.
-    Oles Odynets. 11 Dec 2018 21:02 - 21:25.
+    Oles Odynets. 11 Dec 2018 21:02 - 21:15.
     LIHO, Flume, Rootkit, RICCI.
     Typescript.
 */
